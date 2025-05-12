@@ -1,0 +1,7 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#expenses-table tbody tr td:last-child {
+  width: 120px;
+}
